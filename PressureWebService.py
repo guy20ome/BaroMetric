@@ -161,5 +161,5 @@ class Weather(Resource):
 api.add_resource(Weather, '/weather')
 
 if __name__ == '__main__':
-     app.run(host='192.168.1.51', port='9999')
+     app.run(host='xxx.xxx.xxx.xxx', port='xxxx')
      
